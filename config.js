@@ -48,7 +48,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/danibotz_official' //Link Instagrammu
-global.sgh = 'https://github.com/YTDANIBOTZ' //Link Githubmu
+global.sgh = 'https://github.com/ViraBotz' //Link Githubmu
 global.sgc = 'https://chat.whatsapp.com/DyBMXDw1IshFM9z0ZHZNlR'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
@@ -59,15 +59,15 @@ global.ppulsa = '081251549899' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281352848936' //Nomor Bot
-global.nomorown = '6281251549899' //Nomor Owner
-global.namebot = 'Elaina BOT' //Nama Bot
-global.nameown = 'DaniXd' // Nama Owner
+global.nomorbot = '6281285589201' //Nomor Bot
+global.nomorown = '6281213709343' //Nomor Owner
+global.namebot = 'Vira BOT' //Nama Bot
+global.nameown = 'Vira Store' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281251549899', '❦ DaniXd? 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6281213709343', '❦ Vira? 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -99,7 +99,7 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ᴇʟᴀɪɴᴀ 𝙱𝙾𝚃 汉  」' //Main Watermark
+global.wm = '                「 vira 𝙱𝙾𝚃 汉  」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ᴇʟᴀɪɴᴀ - ᴄʜᴀɴ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = '⫹⫺ ᴇʟᴀɪɴᴀ 𝙱𝙾𝚃'
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
